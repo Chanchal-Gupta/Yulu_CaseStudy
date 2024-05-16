@@ -10,6 +10,7 @@ GOAL of DATA ANALYSIS was:
 2. How well those variables describe the electric cycle demands
 
 DATASET:
+Link: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089
 datetime: datetime, 
 season: season (1: spring, 2: summer, 3: fall, 4: winter), 
 holiday: whether day is a holiday or not, 
